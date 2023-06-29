@@ -55,9 +55,9 @@ buttonTexts.forEach((buttonText, index) => {
 
 const buttonContainer2 = document.querySelector(".button-container2");
 const sessions = [
-  "Session 1",
-  "Session 2",
-  "Session 3"
+  "season 1",
+  "season 2",
+  "season 3"
   // Add more sessions as needed
 ];
 
